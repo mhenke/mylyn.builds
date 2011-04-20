@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.eclipse.mylyn</groupId>
   <artifactId>org.eclipse.mylyn.builds.sample.mvn.reactor.module2</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1.v20110316-0100</version>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

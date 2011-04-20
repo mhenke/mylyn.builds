@@ -4,7 +4,7 @@
   <groupId>org.eclipse.mylyn</groupId>
   <artifactId>org.eclipse.mylyn.builds.sample.mvn.reactor</artifactId>
   <packaging>pom</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1.v20110316-0100</version>
   <modules>
     <module>module1</module>
     <module>module2</module>
